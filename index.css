@@ -1,0 +1,16 @@
+*{
+  font-family: 'Poppins', sans-serif;
+
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.transition-opacity {
+  transition-property: opacity;
+}
+
+.opacity-100 {
+  opacity: 1;
+}
